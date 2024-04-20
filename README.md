@@ -6,3 +6,5 @@ What I've learned
 -recursion
 -logical loops(while and for loops)
 -flag condition 
+Type of Project: Personal
+Location: Home
